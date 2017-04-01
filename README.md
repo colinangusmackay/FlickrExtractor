@@ -5,6 +5,8 @@ This isn't designed for mainstream use, I designed it for a one-shot extraction 
 
 As it stands, it should probably be run from within Visual Studio.
 
+IMPORTANT: *As with all throw-away applications the code quality is subpar. Please do NOT use this as an example of how to code an application that uses the Flickr API (or an application in general)*
+
 ## Instructions
 
 Once you have downloaded the source code, open it in Visual Studio (It was created with Visual Studio 2017 community edition).
